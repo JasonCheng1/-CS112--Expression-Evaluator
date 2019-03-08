@@ -95,7 +95,7 @@ public class Expression {
     private static boolean isNumber(String input){//checks whether something is a constant
        try
        {
-          Float.parseFloat(input);
+          Integer.parseInt(input);
           return true;
        }
        catch(Exception e)

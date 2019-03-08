@@ -1,0 +1,46 @@
+3
+3+4
+3-4-5
+3+4*5
+b 
+a/c
+a-b+c
+a-b*d/a+c-4
+(a)
+a-(b-c)
+a-((b-c))
+a-(b-c)*(2*d)+c
+A[1]
+A[b-2]
+A[(d-c)]
+A[3]+B[4]
+A[B[0]]
+d*(c-B[a+CARR[0] - A[1]+b])
+A[B[CARR[1]*2]]/2
+
+
+3
+Xyz
+3-4*5
+a-(b+A[B[2]])*d+3
+A[2*(a+b)]
+(varx + vary*varz[(vara+varb[(a+b)*33])])/55
+
+
+3
+3-4*5
+a
+(a + A[a*2-b])
+a - (b+A[B[2]])*d + 3
+arrayA[arrayA[9]*(arrayA[3]+2)+1]-varx
+
+3
+a
+a[3]
+a[b[3]]
+A[A[3]]
+a+a
+a+A
+(a-(b+c)*d)/2
+b*c/a+z*a
+ab*3/abc
